@@ -27,7 +27,8 @@ I’m a MERN Stack Developer passionate about building modern web applications a
   <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img alt="Tailwind CSS" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40" />
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
- <img alt="DaisyUI" src="https://raw.githubusercontent.com/saadeghi/daisyui/master/docs/src/images/daisyui.svg" width="40" height="40" />
+ [![DaisyUI](https://img.shields.io/badge/DaisyUI-5C4D7D?style=for-the-badge&logo=daisyui&logoColor=white)](https://daisyui.com/)
+
   <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
 </div>
 
