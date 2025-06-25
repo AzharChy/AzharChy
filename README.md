@@ -25,9 +25,9 @@ I’m a MERN Stack Developer passionate about building modern web applications a
   <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
   <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
   <img alt="Tailwind CSS" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40" />
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-
   <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
 </div>
 
@@ -42,35 +42,59 @@ I’m a MERN Stack Developer passionate about building modern web applications a
 
 ### [Bill Pay Koro](https://github.com/AzharChy/Phudu)  
 **A payment website for paying bills**  
-Live demo: [assignment-payment.web.app](https://assignment-payment.web.app/)  
-**Tech stack:** React, Node.js, MongoDB, Express  
-**Features:**  
-- Pay your electricity, gas, and other day-to-day life bills  
-**Dependencies:** express, mongodb, axios  
-
-**Run locally:**  
+🔗 **Live demo:** [assignment-payment.web.app](https://assignment-payment.web.app/)  
+🛠️ **Tech Stack:** React, Node.js, MongoDB, Express, Firebase  
+✨ **Features:**  
+- Pay electricity, gas, and daily utility bills  
+📦 **Dependencies:** `express`, `mongodb`, `axios`  
+💻 **Run locally:**  
 ```bash
 git clone https://github.com/AzharChy/Phudu.git
 npm install
 npm start
-
-### [Bill Pay Koro](https://github.com/AzharChy/Phudu)  
-**A payment website for paying bills**  
-Live demo: [assignment-plant.web.app](https://my-plant-app-c0fd4.web.app)
-))  
-**Tech stack:** React, Node.js, MongoDB, Express  
-**Features:**  
-- User  Authentication, Mobile Responsive, user interaction, Search and Filtering 
-
-**Dependencies:** express, mongodb, axios  
-
-**Run locally:**  
+```
+### [My Tour Package App (Client)](https://github.com/AzharChy/Tourist-Package-Client) | [Server](https://github.com/AzharChy/Touris-App-Server)  
+**A website for tour enthusiasts to book trips without any bother.**  
+🔗 **Live demo:** [https://tour-package-app.web.app/](https://tour-package-app.web.app/)  
+🛠️ **Tech Stack:** React, Node.js, MongoDB, Express, Firebase  
+✨ **Features:**  
+- User Authentication, Mobile Responsive, User Interaction, Search and Filtering  
+📦 **Dependencies:** `express`, `mongodb`, `axios`  
+💻 **Run locally:**  
 ```bash
+# Server
+git clone https://github.com/AzharChy/Touris-App-Server.git
+cd Touris-App-Server
+npm install
+npm start
+
+# Client
+git clone https://github.com/AzharChy/Tourist-Package-Client.git
+cd Tourist-Package-Client
+npm install
+npm start
+
+```
+ ### [My Plant Care App (Client)](https://github.com/AzharChy/Plant-App-Clinet) | [Server](https://github.com/AzharChy/Plant-App-Server)
+
+**A plant care app where user can take care of their plants by managing day-to-day watering and other care information.**
+🔗 **Live demo:** [ https://my-plant-app-c0fd4.web.app]( https://my-plant-app-c0fd4.web.app)
+🛠️ **Tech Stack:** React, Node.js, MongoDB, Express, Firebase  
+
+✨ **Features:**  
+- User Authentication, Mobile Responsive, User Interaction, Search and Filtering  
+📦 **Dependencies:** `express`, `mongodb`, `axios`  
+💻 **Run locally:**  
+```bash
+# Server
 git clone https://github.com/AzharChy/Plant-App-Server.git
+cd Plant-App-Server
 npm install
 npm start
 
-```bash
- git clone https://github.com/AzharChy/Plant-App-Clinet.git
+# Client
+git clone https://github.com/AzharChy/Plant-App-Clinet.git
+cd Plant-App-Clinet
 npm install
 npm start
+```
