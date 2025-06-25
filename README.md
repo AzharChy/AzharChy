@@ -53,3 +53,24 @@ Live demo: [assignment-payment.web.app](https://assignment-payment.web.app/)
 git clone https://github.com/AzharChy/Phudu.git
 npm install
 npm start
+
+### [Bill Pay Koro](https://github.com/AzharChy/Phudu)  
+**A payment website for paying bills**  
+Live demo: [assignment-plant.web.app](https://my-plant-app-c0fd4.web.app)
+))  
+**Tech stack:** React, Node.js, MongoDB, Express  
+**Features:**  
+- User  Authentication, Mobile Responsive, user interaction, Search and Filtering 
+
+**Dependencies:** express, mongodb, axios  
+
+**Run locally:**  
+```bash
+git clone https://github.com/AzharChy/Plant-App-Server.git
+npm install
+npm start
+
+```bash
+ git clone https://github.com/AzharChy/Plant-App-Clinet.git
+npm install
+npm start
