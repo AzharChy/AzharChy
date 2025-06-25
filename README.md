@@ -46,6 +46,7 @@ I’m a MERN Stack Developer passionate about building modern web applications a
 ## Pinned Repositories  
 
 ### [Bill Pay Koro](https://github.com/AzharChy/Phudu)  
+![Bill Pay Koro Homepage Screenshot](https://i.ibb.co/WWg5VBKv/Screenshot-2025-06-25-153319.png)
 **A payment website for paying bills**  
 🔗 **Live demo:** [assignment-payment.web.app](https://assignment-payment.web.app/)  
 🛠️ **Tech Stack:** React, Node.js, MongoDB, Express, Firebase  
@@ -82,7 +83,7 @@ npm start
 
 ```
  ### [My Plant Care App (Client)](https://github.com/AzharChy/Plant-App-Clinet) | [Server](https://github.com/AzharChy/Plant-App-Server)
-
+![My Plant App Homepage Screenshot](https://i.ibb.co/5g3HWLXN/Screenshot-2025-06-25-153532.png)
 **A plant care app where user can take care of their plants by managing day-to-day watering and other care information.**
 🔗 **Live demo:** [ https://my-plant-app-c0fd4.web.app]( https://my-plant-app-c0fd4.web.app)
 🛠️ **Tech Stack:** React, Node.js, MongoDB, Express, Firebase  
