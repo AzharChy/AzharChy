@@ -6,6 +6,10 @@
 
 ---
 
+**📍 Sylhet, Bangladesh | ✉️ azharchowdhury075@gmail.com**
+
+---
+
 ## About Me  
 I’m a MERN Stack Developer passionate about building modern web applications and learning new technologies.
 
@@ -55,6 +59,7 @@ npm install
 npm start
 ```
 ### [My Tour Package App (Client)](https://github.com/AzharChy/Tourist-Package-Client) | [Server](https://github.com/AzharChy/Touris-App-Server)  
+![My Tour Package Homepage Screenshot](https://i.ibb.co/YFf9G9kd/Screenshot-2025-06-25-152859.png)
 **A website for tour enthusiasts to book trips without any bother.**  
 🔗 **Live demo:** [https://tour-package-app.web.app/](https://tour-package-app.web.app/)  
 🛠️ **Tech Stack:** React, Node.js, MongoDB, Express, Firebase  
