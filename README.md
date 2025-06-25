@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://via.placeholder.com/900x200?text=MERN+Stack+Developer+Banner)
+![Banner]("C:\Users\mdmut\Downloads\Gold Modern Personal LinkedIn Banner.png")
 
 # Mohammed Azhar Mahmud Chowdhury  
 ### MERN Stack Developer
